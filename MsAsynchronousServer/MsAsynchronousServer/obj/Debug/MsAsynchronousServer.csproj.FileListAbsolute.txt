@@ -1,0 +1,6 @@
+C:\Users\qkrdy\source\repos\MsAsynchronousServer\MsAsynchronousServer\bin\Debug\MsAsynchronousServer.exe.config
+C:\Users\qkrdy\source\repos\MsAsynchronousServer\MsAsynchronousServer\bin\Debug\MsAsynchronousServer.exe
+C:\Users\qkrdy\source\repos\MsAsynchronousServer\MsAsynchronousServer\bin\Debug\MsAsynchronousServer.pdb
+C:\Users\qkrdy\source\repos\MsAsynchronousServer\MsAsynchronousServer\obj\Debug\MsAsynchronousServer.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\MsAsynchronousServer\MsAsynchronousServer\obj\Debug\MsAsynchronousServer.exe
+C:\Users\qkrdy\source\repos\MsAsynchronousServer\MsAsynchronousServer\obj\Debug\MsAsynchronousServer.pdb

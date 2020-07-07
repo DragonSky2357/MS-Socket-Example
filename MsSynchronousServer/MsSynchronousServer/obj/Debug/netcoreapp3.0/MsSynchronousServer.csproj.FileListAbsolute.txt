@@ -1,0 +1,11 @@
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\bin\Debug\netcoreapp3.0\MsSynchronousServer.exe
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\bin\Debug\netcoreapp3.0\MsSynchronousServer.deps.json
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\bin\Debug\netcoreapp3.0\MsSynchronousServer.runtimeconfig.json
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\bin\Debug\netcoreapp3.0\MsSynchronousServer.runtimeconfig.dev.json
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\bin\Debug\netcoreapp3.0\MsSynchronousServer.dll
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\bin\Debug\netcoreapp3.0\MsSynchronousServer.pdb
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\obj\Debug\netcoreapp3.0\MsSynchronousServer.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\obj\Debug\netcoreapp3.0\MsSynchronousServer.AssemblyInfoInputs.cache
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\obj\Debug\netcoreapp3.0\MsSynchronousServer.AssemblyInfo.cs
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\obj\Debug\netcoreapp3.0\MsSynchronousServer.dll
+C:\Users\qkrdy\source\repos\MsSynchronousServer\MsSynchronousServer\obj\Debug\netcoreapp3.0\MsSynchronousServer.pdb

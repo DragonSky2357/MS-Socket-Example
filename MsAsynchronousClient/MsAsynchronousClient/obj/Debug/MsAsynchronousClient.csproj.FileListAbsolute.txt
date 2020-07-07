@@ -1,0 +1,6 @@
+C:\Users\qkrdy\source\repos\MsAsynchronousClient\MsAsynchronousClient\obj\Debug\MsAsynchronousClient.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\MsAsynchronousClient\MsAsynchronousClient\bin\Debug\MsAsynchronousClient.exe.config
+C:\Users\qkrdy\source\repos\MsAsynchronousClient\MsAsynchronousClient\bin\Debug\MsAsynchronousClient.exe
+C:\Users\qkrdy\source\repos\MsAsynchronousClient\MsAsynchronousClient\bin\Debug\MsAsynchronousClient.pdb
+C:\Users\qkrdy\source\repos\MsAsynchronousClient\MsAsynchronousClient\obj\Debug\MsAsynchronousClient.exe
+C:\Users\qkrdy\source\repos\MsAsynchronousClient\MsAsynchronousClient\obj\Debug\MsAsynchronousClient.pdb
